@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/detail_fragment.xml",
+        "source": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/menu/detail_fragment.xml"
+    },
+    {
+        "merged": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/menu/forecastfragment.xml"
+    }
+]

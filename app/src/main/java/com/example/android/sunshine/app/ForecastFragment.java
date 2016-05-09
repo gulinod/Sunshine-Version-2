@@ -2,9 +2,12 @@ package com.example.android.sunshine.app;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.preference.ListPreference;
+import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.text.format.Time;
 import android.util.Log;
@@ -40,7 +43,7 @@ import java.util.List;
 
 
 public class ForecastFragment extends Fragment {
-    public final static String FORECAST = "com.example.android.sunshine.FORECAST";
+// public final static String FORECAST = "com.example.android.sunshine.FORECAST";
     private ArrayAdapter<String> mForecastAdapter;
 
     public ForecastFragment() {
@@ -63,14 +66,34 @@ public class ForecastFragment extends Fragment {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
+
+
         int id = item.getItemId();
         if (id == R.id.action_refresh) {
             FetchWeatherTask weatherTask = new FetchWeatherTask();
-            weatherTask.execute("94043");
-            return true;
+
+            SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(getActivity());
+            String location = sharedPref.getString(getString(R.string.location_key), getString(R.string.location_default));
+            weatherTask.execute(location);
         }
+
         return super.onOptionsItemSelected(item);
     }
+    private void updateWeather()
+    {
+
+        FetchWeatherTask weatherTask = new FetchWeatherTask();
+
+        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(getActivity());
+        String location = sharedPref.getString(getString(R.string.location_key), getString(R.string.location_default));
+        weatherTask.execute(location);
+    }
+    public  void onStart()
+    {
+        super.onStart();
+        updateWeather();
+    }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -78,16 +101,9 @@ public class ForecastFragment extends Fragment {
 
         // Create some dummy data for the ListView.  Here's a sample weekly forecast
         String[] data = {
-                "Mon 6/23 - Sunny - 31/17",
-                "Tue 6/24 - Foggy - 21/8",
-                "Wed 6/25 - Cloudy - 22/17",
-                "Thurs 6/26 - Rainy - 18/11",
-                "Fri 6/27 - Foggy - 21/10",
-                "Sat 6/28 - TRAPPED IN WEATHERSTATION - 23/18",
-                "Sun 6/29 - Sunny - 20/7"
-        };
-        List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));  ///<<<<<<<<<<<<<<<<<<<        <EDIT THIS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+        };
+        List<String> weekForecast = new ArrayList<String>(Arrays.asList(data));
         // Now that we have some dummy forecast data, create an ArrayAdapter.
         // The ArrayAdapter will take data from a source (like our dummy forecast) and
         // use it to populate the ListView it's attached to.
@@ -111,11 +127,9 @@ public class ForecastFragment extends Fragment {
 
                 Intent intent = new Intent(getActivity(), DetailActivity.class);
 
-                int duration = Toast.LENGTH_SHORT;
 
-                Toast.makeText(getActivity(), forecast, duration).show();
 
-                intent.putExtra(FORECAST, forecast);
+                intent.putExtra(Intent.EXTRA_TEXT, forecast);
                 startActivity(intent);
 
 
@@ -145,6 +159,18 @@ public class ForecastFragment extends Fragment {
          */
         private String formatHighLows(double high, double low) {
             // For presentation, assume the user doesn't care about tenths of a degree.
+              /* if statement that detects temperature should be in farenheit, convert it*/
+            SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(getActivity());
+            String tempPref = sharedPref.getString(getString(R.string.pref_units_key), getString(R.string.pref_units_celsius));
+
+            if(tempPref.equals(getString(R.string.pref_units_fahrenheit)))
+            {
+                high =(high * 1.8)+32;
+                low =(low * 1.8)+32;
+            }
+
+
+
             long roundedHigh = Math.round(high);
             long roundedLow = Math.round(low);
 
@@ -245,8 +271,8 @@ public class ForecastFragment extends Fragment {
             String forecastJsonStr = null;
 
             String format = "json";
-            String units = "imperial";
-            int numDays = 7;
+            String units = "metric";
+            int numDays = 14;
 
             try {
                 // Possible parameters are avaiable at OWM's forecast API page, at
@@ -328,6 +354,8 @@ public class ForecastFragment extends Fragment {
             // This will only happen if there was an error getting or parsing the forecast.
             return null;
         }
+
+
 
         @Override
         protected void onPostExecute(String[] result) {

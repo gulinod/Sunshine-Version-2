@@ -1,5 +1,12 @@
 package com.example.android.sunshine.app;
 
+import android.content.Context;
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.media.audiofx.BassBoost;
+import android.net.Uri;
+import android.preference.PreferenceManager;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -11,6 +18,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -49,12 +57,38 @@ public class MainActivity extends ActionBarActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
+
+
+
+
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent setting = new Intent(this, SettingsActivity.class);
+
+            startActivity(setting);
+
             return true;
         }
+        if(id == R.id.map_location)
+        {
+            onPreferredLocationInMap();
+        }
+
 
         return super.onOptionsItemSelected(item);
+    }
+
+    private void onPreferredLocationInMap(){
+
+        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(this);
+        String location = sharedPref.getString(getString(R.string.location_key), getString(R.string.location_default));
+
+        Uri gmmIntentUri = Uri.parse("geo:0,0?q=" +location);
+        Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+        mapIntent.setPackage("com.google.android.apps.maps");
+        if (mapIntent.resolveActivity(getPackageManager()) != null) {
+            startActivity(mapIntent);
+        }
     }
 
     /**

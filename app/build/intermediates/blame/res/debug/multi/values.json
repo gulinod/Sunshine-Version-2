@@ -1,0 +1,4943 @@
+[
+    {
+        "outputFile": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endLine": 39,
+                    "endColumn": 19,
+                    "endOffset": 1294
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1299,
+                    "endLine": 43,
+                    "endColumn": 19,
+                    "endOffset": 1469
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1474,
+                    "endColumn": 54,
+                    "endOffset": 1524
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1529,
+                    "endColumn": 44,
+                    "endOffset": 1569
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1574,
+                    "endColumn": 48,
+                    "endOffset": 1618
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1623,
+                    "endColumn": 40,
+                    "endOffset": 1659
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1664,
+                    "endColumn": 54,
+                    "endOffset": 1714
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1719,
+                    "endColumn": 62,
+                    "endOffset": 1777
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1782,
+                    "endColumn": 75,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 61,
+                    "endOffset": 1915
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1920,
+                    "endColumn": 72,
+                    "endOffset": 1988
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1993,
+                    "endColumn": 77,
+                    "endOffset": 2066
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2071,
+                    "endColumn": 80,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endColumn": 60,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 74,
+                    "endOffset": 2283
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2288,
+                    "endColumn": 75,
+                    "endOffset": 2359
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2364,
+                    "endColumn": 76,
+                    "endOffset": 2436
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2441,
+                    "endColumn": 77,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endColumn": 69,
+                    "endOffset": 2584
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2589,
+                    "endColumn": 70,
+                    "endOffset": 2655
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2660,
+                    "endColumn": 60,
+                    "endOffset": 2716
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2721,
+                    "endColumn": 61,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 76,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 77,
+                    "endOffset": 2933
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2938,
+                    "endColumn": 105,
+                    "endOffset": 3039
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3044,
+                    "endColumn": 105,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 78,
+                    "endOffset": 3224
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3229,
+                    "endColumn": 79,
+                    "endOffset": 3304
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3309,
+                    "endColumn": 56,
+                    "endOffset": 3361
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3366,
+                    "endColumn": 57,
+                    "endOffset": 3419
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3424,
+                    "endColumn": 73,
+                    "endOffset": 3493
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3498,
+                    "endColumn": 74,
+                    "endOffset": 3568
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3573,
+                    "endColumn": 64,
+                    "endOffset": 3633
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3638,
+                    "endColumn": 65,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 66,
+                    "endOffset": 3766
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3771,
+                    "endColumn": 67,
+                    "endOffset": 3834
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3839,
+                    "endColumn": 103,
+                    "endOffset": 3938
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3943,
+                    "endColumn": 105,
+                    "endOffset": 4044
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4049,
+                    "endColumn": 79,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 80,
+                    "endOffset": 4205
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4210,
+                    "endColumn": 58,
+                    "endOffset": 4264
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4269,
+                    "endColumn": 58,
+                    "endOffset": 4323
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4328,
+                    "endColumn": 58,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endColumn": 58,
+                    "endOffset": 4441
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4446,
+                    "endColumn": 58,
+                    "endOffset": 4500
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4505,
+                    "endColumn": 62,
+                    "endOffset": 4563
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4568,
+                    "endColumn": 63,
+                    "endOffset": 4627
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4632,
+                    "endColumn": 57,
+                    "endOffset": 4685
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4690,
+                    "endColumn": 58,
+                    "endOffset": 4744
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4749,
+                    "endColumn": 70,
+                    "endOffset": 4815
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4820,
+                    "endColumn": 71,
+                    "endOffset": 4887
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4892,
+                    "endColumn": 71,
+                    "endOffset": 4959
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4964,
+                    "endColumn": 72,
+                    "endOffset": 5032
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 5037,
+                    "endColumn": 56,
+                    "endOffset": 5089
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5094,
+                    "endColumn": 57,
+                    "endOffset": 5147
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5152,
+                    "endColumn": 72,
+                    "endOffset": 5220
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5225,
+                    "endColumn": 73,
+                    "endOffset": 5294
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5299,
+                    "endColumn": 73,
+                    "endOffset": 5368
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5373,
+                    "endColumn": 74,
+                    "endOffset": 5443
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5448,
+                    "endColumn": 69,
+                    "endOffset": 5513
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5518,
+                    "endColumn": 70,
+                    "endOffset": 5584
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 18785,
+                    "endColumn": 69,
+                    "endOffset": 18850
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 18855,
+                    "endColumn": 69,
+                    "endOffset": 18920
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 18925,
+                    "endColumn": 76,
+                    "endOffset": 18997
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 19002,
+                    "endColumn": 63,
+                    "endOffset": 19061
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 19066,
+                    "endColumn": 64,
+                    "endOffset": 19126
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 19131,
+                    "endColumn": 68,
+                    "endOffset": 19195
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 19200,
+                    "endColumn": 76,
+                    "endOffset": 19272
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 19277,
+                    "endColumn": 74,
+                    "endOffset": 19347
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 19352,
+                    "endColumn": 68,
+                    "endOffset": 19416
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 19421,
+                    "endColumn": 67,
+                    "endOffset": 19484
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 19489,
+                    "endColumn": 76,
+                    "endOffset": 19561
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 19566,
+                    "endColumn": 58,
+                    "endOffset": 19620
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 19625,
+                    "endColumn": 56,
+                    "endOffset": 19677
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 19682,
+                    "endColumn": 58,
+                    "endOffset": 19736
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 19741,
+                    "endColumn": 59,
+                    "endOffset": 19796
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 19801,
+                    "endColumn": 65,
+                    "endOffset": 19862
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 19867,
+                    "endColumn": 66,
+                    "endOffset": 19929
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 19934,
+                    "endColumn": 57,
+                    "endOffset": 19987
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 19992,
+                    "endColumn": 64,
+                    "endOffset": 20052
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 20057,
+                    "endColumn": 63,
+                    "endOffset": 20116
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 20121,
+                    "endColumn": 60,
+                    "endOffset": 20177
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 20182,
+                    "endColumn": 60,
+                    "endOffset": 20238
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 20243,
+                    "endColumn": 60,
+                    "endOffset": 20299
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 20304,
+                    "endColumn": 61,
+                    "endOffset": 20361
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 20366,
+                    "endColumn": 63,
+                    "endOffset": 20425
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 20430,
+                    "endColumn": 63,
+                    "endOffset": 20489
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 20494,
+                    "endColumn": 63,
+                    "endOffset": 20553
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 20558,
+                    "endColumn": 64,
+                    "endOffset": 20618
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 20623,
+                    "endColumn": 62,
+                    "endOffset": 20681
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 20686,
+                    "endColumn": 59,
+                    "endOffset": 20741
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 20746,
+                    "endColumn": 60,
+                    "endOffset": 20802
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 20807,
+                    "endColumn": 58,
+                    "endOffset": 20861
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 20866,
+                    "endColumn": 59,
+                    "endOffset": 20921
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 20926,
+                    "endColumn": 61,
+                    "endOffset": 20983
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 20988,
+                    "endColumn": 70,
+                    "endOffset": 21054
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 21059,
+                    "endColumn": 59,
+                    "endOffset": 21114
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 21119,
+                    "endColumn": 67,
+                    "endOffset": 21182
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 21187,
+                    "endColumn": 57,
+                    "endOffset": 21240
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 21245,
+                    "endColumn": 55,
+                    "endOffset": 21296
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 21301,
+                    "endColumn": 66,
+                    "endOffset": 21363
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 21368,
+                    "endColumn": 67,
+                    "endOffset": 21431
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 21436,
+                    "endColumn": 67,
+                    "endOffset": 21499
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 21504,
+                    "endColumn": 67,
+                    "endOffset": 21567
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 21572,
+                    "endColumn": 85,
+                    "endOffset": 21653
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 21658,
+                    "endColumn": 86,
+                    "endOffset": 21740
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 21745,
+                    "endColumn": 56,
+                    "endOffset": 21797
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 21802,
+                    "endColumn": 47,
+                    "endOffset": 21845
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 21850,
+                    "endColumn": 48,
+                    "endOffset": 21894
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 21899,
+                    "endColumn": 50,
+                    "endOffset": 21945
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 21950,
+                    "endColumn": 33,
+                    "endOffset": 21979
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 21984,
+                    "endColumn": 46,
+                    "endOffset": 22026
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 22031,
+                    "endColumn": 48,
+                    "endOffset": 22075
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 22080,
+                    "endColumn": 45,
+                    "endOffset": 22121
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 22126,
+                    "endColumn": 31,
+                    "endOffset": 22153
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 22158,
+                    "endColumn": 54,
+                    "endOffset": 22208
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 22213,
+                    "endColumn": 73,
+                    "endOffset": 22282
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 22287,
+                    "endColumn": 77,
+                    "endOffset": 22360
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 22365,
+                    "endColumn": 92,
+                    "endOffset": 22453
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 22458,
+                    "endColumn": 69,
+                    "endOffset": 22523
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 22528,
+                    "endColumn": 77,
+                    "endOffset": 22601
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 22606,
+                    "endColumn": 53,
+                    "endOffset": 22655
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 22660,
+                    "endColumn": 69,
+                    "endOffset": 22725
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 22730,
+                    "endColumn": 84,
+                    "endOffset": 22810
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 22815,
+                    "endColumn": 72,
+                    "endOffset": 22883
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 22888,
+                    "endColumn": 73,
+                    "endOffset": 22957
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 22962,
+                    "endColumn": 68,
+                    "endOffset": 23026
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 23031,
+                    "endColumn": 74,
+                    "endOffset": 23101
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 23106,
+                    "endColumn": 73,
+                    "endOffset": 23175
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 23180,
+                    "endColumn": 73,
+                    "endOffset": 23249
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 23254,
+                    "endColumn": 88,
+                    "endOffset": 23338
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 23343,
+                    "endColumn": 69,
+                    "endOffset": 23408
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 23413,
+                    "endColumn": 52,
+                    "endOffset": 23461
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 23466,
+                    "endColumn": 47,
+                    "endOffset": 23509
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 543,
+                        "endColumn": 47,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 23514,
+                    "endColumn": 45,
+                    "endOffset": 23555
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 23560,
+                    "endColumn": 69,
+                    "endOffset": 23625
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 23630,
+                    "endColumn": 52,
+                    "endOffset": 23678
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 23683,
+                    "endColumn": 52,
+                    "endOffset": 23731
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 23736,
+                    "endColumn": 49,
+                    "endOffset": 23781
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 23786,
+                    "endColumn": 51,
+                    "endOffset": 23833
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 23838,
+                    "endColumn": 64,
+                    "endOffset": 23898
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 23903,
+                    "endColumn": 79,
+                    "endOffset": 23978
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 23983,
+                    "endColumn": 39,
+                    "endOffset": 24018
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 24023,
+                    "endColumn": 44,
+                    "endOffset": 24063
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 24068,
+                    "endColumn": 46,
+                    "endOffset": 24110
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 24115,
+                    "endColumn": 53,
+                    "endOffset": 24164
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 24169,
+                    "endColumn": 49,
+                    "endOffset": 24214
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 24219,
+                    "endColumn": 51,
+                    "endOffset": 24266
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 24271,
+                    "endColumn": 64,
+                    "endOffset": 24331
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 24336,
+                    "endLine": 216,
+                    "endColumn": 13,
+                    "endOffset": 24480
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 24485,
+                    "endColumn": 65,
+                    "endOffset": 24546
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 24551,
+                    "endColumn": 55,
+                    "endOffset": 24602
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 24607,
+                    "endColumn": 67,
+                    "endOffset": 24670
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 24675,
+                    "endColumn": 55,
+                    "endOffset": 24726
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 24731,
+                    "endColumn": 50,
+                    "endOffset": 24777
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 24782,
+                    "endColumn": 86,
+                    "endOffset": 24864
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 24869,
+                    "endColumn": 64,
+                    "endOffset": 24929
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 24934,
+                    "endColumn": 90,
+                    "endOffset": 25020
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 25025,
+                    "endColumn": 56,
+                    "endOffset": 25077
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 25082,
+                    "endColumn": 91,
+                    "endOffset": 25169
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 25174,
+                    "endColumn": 68,
+                    "endOffset": 25238
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 25243,
+                    "endColumn": 80,
+                    "endOffset": 25319
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 25324,
+                    "endColumn": 54,
+                    "endOffset": 25374
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 25379,
+                    "endColumn": 54,
+                    "endOffset": 25429
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 25434,
+                    "endColumn": 60,
+                    "endOffset": 25490
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 25495,
+                    "endColumn": 50,
+                    "endOffset": 25541
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 25546,
+                    "endColumn": 60,
+                    "endOffset": 25602
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 25607,
+                    "endColumn": 66,
+                    "endOffset": 25669
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 25674,
+                    "endColumn": 43,
+                    "endOffset": 25713
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 25718,
+                    "endColumn": 48,
+                    "endOffset": 25762
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 25767,
+                    "endColumn": 57,
+                    "endOffset": 25820
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 25825,
+                    "endColumn": 60,
+                    "endOffset": 25881
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 25886,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 26011
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 26016,
+                    "endLine": 248,
+                    "endColumn": 12,
+                    "endOffset": 26488
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 26493,
+                    "endLine": 252,
+                    "endColumn": 12,
+                    "endOffset": 26710
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 26715,
+                    "endLine": 256,
+                    "endColumn": 12,
+                    "endOffset": 26932
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 26937,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 27200
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 27205,
+                    "endLine": 265,
+                    "endColumn": 12,
+                    "endOffset": 27427
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 27432,
+                    "endLine": 269,
+                    "endColumn": 12,
+                    "endOffset": 27657
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 27662,
+                    "endLine": 273,
+                    "endColumn": 12,
+                    "endOffset": 27887
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 27892,
+                    "endLine": 277,
+                    "endColumn": 12,
+                    "endOffset": 28117
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 28122,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 28347
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 28352,
+                    "endLine": 285,
+                    "endColumn": 12,
+                    "endOffset": 28574
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 28579,
+                    "endLine": 289,
+                    "endColumn": 12,
+                    "endOffset": 28813
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 28818,
+                    "endLine": 293,
+                    "endColumn": 12,
+                    "endOffset": 29039
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 29044,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 29284
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 29289,
+                    "endColumn": 117,
+                    "endOffset": 29402
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 29407,
+                    "endColumn": 117,
+                    "endOffset": 29520
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 29525,
+                    "endLine": 303,
+                    "endColumn": 12,
+                    "endOffset": 29750
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 29755,
+                    "endLine": 307,
+                    "endColumn": 12,
+                    "endOffset": 29998
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 30003,
+                    "endLine": 311,
+                    "endColumn": 12,
+                    "endOffset": 30217
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 30222,
+                    "endLine": 316,
+                    "endColumn": 12,
+                    "endOffset": 30500
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 30505,
+                    "endLine": 320,
+                    "endColumn": 12,
+                    "endOffset": 30708
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 30713,
+                    "endLine": 323,
+                    "endColumn": 12,
+                    "endOffset": 30839
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 30844,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 31066
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 31071,
+                    "endLine": 331,
+                    "endColumn": 12,
+                    "endOffset": 31312
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 31317,
+                    "endLine": 335,
+                    "endColumn": 12,
+                    "endOffset": 31537
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 31542,
+                    "endLine": 339,
+                    "endColumn": 12,
+                    "endOffset": 31786
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 31791,
+                    "endLine": 343,
+                    "endColumn": 12,
+                    "endOffset": 32007
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 32012,
+                    "endLine": 347,
+                    "endColumn": 12,
+                    "endOffset": 32252
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 32257,
+                    "endLine": 352,
+                    "endColumn": 12,
+                    "endOffset": 32547
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 32552,
+                    "endLine": 355,
+                    "endColumn": 12,
+                    "endOffset": 32769
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 32774,
+                    "endLine": 358,
+                    "endColumn": 12,
+                    "endOffset": 33007
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 33012,
+                    "endLine": 361,
+                    "endColumn": 12,
+                    "endOffset": 33221
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 33226,
+                    "endLine": 364,
+                    "endColumn": 12,
+                    "endOffset": 33451
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 33456,
+                    "endLine": 367,
+                    "endColumn": 12,
+                    "endOffset": 33674
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 33679,
+                    "endLine": 370,
+                    "endColumn": 12,
+                    "endOffset": 33889
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 33894,
+                    "endLine": 373,
+                    "endColumn": 12,
+                    "endOffset": 34097
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 34102,
+                    "endColumn": 111,
+                    "endOffset": 34209
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 34214,
+                    "endColumn": 111,
+                    "endOffset": 34321
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 34326,
+                    "endColumn": 104,
+                    "endOffset": 34426
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 34431,
+                    "endLine": 379,
+                    "endColumn": 12,
+                    "endOffset": 34640
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 34645,
+                    "endColumn": 133,
+                    "endOffset": 34774
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 34779,
+                    "endColumn": 127,
+                    "endOffset": 34902
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 34907,
+                    "endColumn": 73,
+                    "endOffset": 34976
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 34981,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 35229
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 35234,
+                    "endColumn": 87,
+                    "endOffset": 35317
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 35322,
+                    "endLine": 393,
+                    "endColumn": 12,
+                    "endOffset": 35719
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 35724,
+                    "endColumn": 81,
+                    "endOffset": 35801
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 35806,
+                    "endColumn": 85,
+                    "endOffset": 35887
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 35892,
+                    "endLine": 405,
+                    "endColumn": 12,
+                    "endOffset": 36503
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 36508,
+                    "endColumn": 90,
+                    "endOffset": 36594
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 36599,
+                    "endLine": 412,
+                    "endColumn": 12,
+                    "endOffset": 37002
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 37007,
+                    "endColumn": 93,
+                    "endOffset": 37096
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 37101,
+                    "endColumn": 57,
+                    "endOffset": 37154
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 37159,
+                    "endLine": 417,
+                    "endColumn": 12,
+                    "endOffset": 37302
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 37307,
+                    "endLine": 450,
+                    "endColumn": 12,
+                    "endOffset": 39795
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 39800,
+                    "endLine": 453,
+                    "endColumn": 12,
+                    "endOffset": 39948
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 39953,
+                    "endLine": 485,
+                    "endColumn": 12,
+                    "endOffset": 42553
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 42558,
+                    "endLine": 584,
+                    "endColumn": 12,
+                    "endOffset": 49296
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 49301,
+                    "endLine": 680,
+                    "endColumn": 12,
+                    "endOffset": 55918
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 681,
+                    "startColumn": 4,
+                    "startOffset": 55923,
+                    "endLine": 779,
+                    "endColumn": 12,
+                    "endOffset": 62757
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 780,
+                    "startColumn": 4,
+                    "startOffset": 62762,
+                    "endLine": 794,
+                    "endColumn": 12,
+                    "endOffset": 63696
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 795,
+                    "startColumn": 4,
+                    "startOffset": 63701,
+                    "endLine": 799,
+                    "endColumn": 12,
+                    "endOffset": 63952
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 800,
+                    "startColumn": 4,
+                    "startOffset": 63957,
+                    "endLine": 804,
+                    "endColumn": 12,
+                    "endOffset": 64188
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 805,
+                    "startColumn": 4,
+                    "startOffset": 64193,
+                    "endLine": 814,
+                    "endColumn": 12,
+                    "endOffset": 64735
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 815,
+                    "startColumn": 4,
+                    "startOffset": 64740,
+                    "endLine": 823,
+                    "endColumn": 12,
+                    "endOffset": 65229
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 824,
+                    "startColumn": 4,
+                    "startOffset": 65234,
+                    "endLine": 834,
+                    "endColumn": 12,
+                    "endOffset": 65902
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 835,
+                    "startColumn": 4,
+                    "startOffset": 65907,
+                    "endLine": 837,
+                    "endColumn": 12,
+                    "endOffset": 66067
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 838,
+                    "startColumn": 4,
+                    "startOffset": 66072,
+                    "endLine": 844,
+                    "endColumn": 12,
+                    "endOffset": 66595
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 845,
+                    "startColumn": 4,
+                    "startOffset": 66600,
+                    "endLine": 852,
+                    "endColumn": 12,
+                    "endOffset": 67159
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 853,
+                    "startColumn": 4,
+                    "startOffset": 67164,
+                    "endLine": 859,
+                    "endColumn": 12,
+                    "endOffset": 67533
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 860,
+                    "startColumn": 4,
+                    "startOffset": 67538,
+                    "endLine": 864,
+                    "endColumn": 12,
+                    "endOffset": 67903
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 865,
+                    "startColumn": 4,
+                    "startOffset": 67908,
+                    "endLine": 871,
+                    "endColumn": 12,
+                    "endOffset": 68394
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 872,
+                    "startColumn": 4,
+                    "startOffset": 68399,
+                    "endLine": 881,
+                    "endColumn": 12,
+                    "endOffset": 68871
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 882,
+                    "startColumn": 4,
+                    "startOffset": 68876,
+                    "endLine": 887,
+                    "endColumn": 12,
+                    "endOffset": 69224
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 888,
+                    "startColumn": 4,
+                    "startOffset": 69229,
+                    "endLine": 892,
+                    "endColumn": 12,
+                    "endOffset": 69551
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 893,
+                    "startColumn": 4,
+                    "startOffset": 69556,
+                    "endLine": 896,
+                    "endColumn": 12,
+                    "endOffset": 69857
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 897,
+                    "startColumn": 4,
+                    "startOffset": 69862,
+                    "endLine": 901,
+                    "endColumn": 12,
+                    "endOffset": 70119
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 902,
+                    "startColumn": 4,
+                    "startOffset": 70124,
+                    "endColumn": 112,
+                    "endOffset": 70232
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 903,
+                    "startColumn": 4,
+                    "startOffset": 70237,
+                    "endColumn": 114,
+                    "endOffset": 70347
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 904,
+                    "startColumn": 4,
+                    "startOffset": 70352,
+                    "endLine": 906,
+                    "endColumn": 12,
+                    "endOffset": 70586
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 907,
+                    "startColumn": 4,
+                    "startOffset": 70591,
+                    "endLine": 909,
+                    "endColumn": 12,
+                    "endOffset": 70797
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 910,
+                    "startColumn": 4,
+                    "startOffset": 70802,
+                    "endLine": 912,
+                    "endColumn": 12,
+                    "endOffset": 71014
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 913,
+                    "startColumn": 4,
+                    "startOffset": 71019,
+                    "endLine": 915,
+                    "endColumn": 12,
+                    "endOffset": 71232
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 916,
+                    "startColumn": 4,
+                    "startOffset": 71237,
+                    "endColumn": 106,
+                    "endOffset": 71339
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 917,
+                    "startColumn": 4,
+                    "startOffset": 71344,
+                    "endLine": 920,
+                    "endColumn": 12,
+                    "endOffset": 71532
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 921,
+                    "startColumn": 4,
+                    "startOffset": 71537,
+                    "endLine": 927,
+                    "endColumn": 12,
+                    "endOffset": 71987
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 928,
+                    "startColumn": 4,
+                    "startOffset": 71992,
+                    "endLine": 931,
+                    "endColumn": 12,
+                    "endOffset": 72227
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 932,
+                    "startColumn": 4,
+                    "startOffset": 72232,
+                    "endLine": 935,
+                    "endColumn": 12,
+                    "endOffset": 72486
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 936,
+                    "startColumn": 4,
+                    "startOffset": 72491,
+                    "endColumn": 100,
+                    "endOffset": 72587
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 937,
+                    "startColumn": 4,
+                    "startOffset": 72592,
+                    "endLine": 940,
+                    "endColumn": 12,
+                    "endOffset": 72774
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 941,
+                    "startColumn": 4,
+                    "startOffset": 72779,
+                    "endColumn": 89,
+                    "endOffset": 72864
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 942,
+                    "startColumn": 4,
+                    "startOffset": 72869,
+                    "endLine": 947,
+                    "endColumn": 12,
+                    "endOffset": 73308
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 948,
+                    "startColumn": 4,
+                    "startOffset": 73313,
+                    "endColumn": 111,
+                    "endOffset": 73420
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 949,
+                    "startColumn": 4,
+                    "startOffset": 73425,
+                    "endLine": 959,
+                    "endColumn": 12,
+                    "endOffset": 74225
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 960,
+                    "startColumn": 4,
+                    "startOffset": 74230,
+                    "endLine": 964,
+                    "endColumn": 12,
+                    "endOffset": 74555
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 965,
+                    "startColumn": 4,
+                    "startOffset": 74560,
+                    "endLine": 978,
+                    "endColumn": 12,
+                    "endOffset": 75474
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 979,
+                    "startColumn": 4,
+                    "startOffset": 75479,
+                    "endLine": 988,
+                    "endColumn": 12,
+                    "endOffset": 76140
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 989,
+                    "startColumn": 4,
+                    "startOffset": 76145,
+                    "endLine": 993,
+                    "endColumn": 12,
+                    "endOffset": 76425
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 994,
+                    "startColumn": 4,
+                    "startOffset": 76430,
+                    "endLine": 1034,
+                    "endColumn": 12,
+                    "endOffset": 79604
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1035,
+                    "startColumn": 4,
+                    "startOffset": 79609,
+                    "endLine": 1075,
+                    "endColumn": 12,
+                    "endOffset": 82797
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1076,
+                    "startColumn": 4,
+                    "startOffset": 82802,
+                    "endLine": 1117,
+                    "endColumn": 12,
+                    "endOffset": 86116
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1118,
+                    "startColumn": 4,
+                    "startOffset": 86121,
+                    "endColumn": 86,
+                    "endOffset": 86203
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1119,
+                    "startColumn": 4,
+                    "startOffset": 86208,
+                    "endLine": 1122,
+                    "endColumn": 12,
+                    "endOffset": 86432
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1123,
+                    "startColumn": 4,
+                    "startOffset": 86437,
+                    "endLine": 1126,
+                    "endColumn": 12,
+                    "endOffset": 86681
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1127,
+                    "startColumn": 4,
+                    "startOffset": 86686,
+                    "endLine": 1130,
+                    "endColumn": 12,
+                    "endOffset": 86922
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1131,
+                    "startColumn": 4,
+                    "startOffset": 86927,
+                    "endLine": 1133,
+                    "endColumn": 12,
+                    "endOffset": 87074
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1134,
+                    "startColumn": 4,
+                    "startOffset": 87079,
+                    "endLine": 1136,
+                    "endColumn": 12,
+                    "endOffset": 87245
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1137,
+                    "startColumn": 4,
+                    "startOffset": 87250,
+                    "endLine": 1139,
+                    "endColumn": 12,
+                    "endOffset": 87412
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1140,
+                    "startColumn": 4,
+                    "startOffset": 87417,
+                    "endLine": 1143,
+                    "endColumn": 12,
+                    "endOffset": 87655
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1144,
+                    "startColumn": 4,
+                    "startOffset": 87660,
+                    "endLine": 1146,
+                    "endColumn": 12,
+                    "endOffset": 87825
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1147,
+                    "startColumn": 4,
+                    "startOffset": 87830,
+                    "endLine": 1149,
+                    "endColumn": 12,
+                    "endOffset": 87998
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1150,
+                    "startColumn": 4,
+                    "startOffset": 88003,
+                    "endLine": 1152,
+                    "endColumn": 12,
+                    "endOffset": 88169
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1153,
+                    "startColumn": 4,
+                    "startOffset": 88174,
+                    "endLine": 1156,
+                    "endColumn": 12,
+                    "endOffset": 88443
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1157,
+                    "startColumn": 4,
+                    "startOffset": 88448,
+                    "endLine": 1159,
+                    "endColumn": 12,
+                    "endOffset": 88642
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1160,
+                    "startColumn": 4,
+                    "startOffset": 88647,
+                    "endColumn": 83,
+                    "endOffset": 88726
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1161,
+                    "startColumn": 4,
+                    "startOffset": 88731,
+                    "endColumn": 95,
+                    "endOffset": 88822
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1162,
+                    "startColumn": 4,
+                    "startOffset": 88827,
+                    "endColumn": 95,
+                    "endOffset": 88918
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1163,
+                    "startColumn": 4,
+                    "startOffset": 88923,
+                    "endColumn": 97,
+                    "endOffset": 89016
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1164,
+                    "startColumn": 4,
+                    "startOffset": 89021,
+                    "endColumn": 99,
+                    "endOffset": 89116
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1165,
+                    "startColumn": 4,
+                    "startOffset": 89121,
+                    "endColumn": 101,
+                    "endOffset": 89218
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1166,
+                    "startColumn": 4,
+                    "startOffset": 89223,
+                    "endColumn": 101,
+                    "endOffset": 89320
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1167,
+                    "startColumn": 4,
+                    "startOffset": 89325,
+                    "endColumn": 101,
+                    "endOffset": 89422
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1168,
+                    "startColumn": 4,
+                    "startOffset": 89427,
+                    "endColumn": 101,
+                    "endOffset": 89524
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1169,
+                    "startColumn": 4,
+                    "startOffset": 89529,
+                    "endColumn": 101,
+                    "endOffset": 89626
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1170,
+                    "startColumn": 4,
+                    "startOffset": 89631,
+                    "endColumn": 99,
+                    "endOffset": 89726
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1171,
+                    "startColumn": 4,
+                    "startOffset": 89731,
+                    "endColumn": 95,
+                    "endOffset": 89822
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1172,
+                    "startColumn": 4,
+                    "startOffset": 89827,
+                    "endColumn": 111,
+                    "endOffset": 89934
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1173,
+                    "startColumn": 4,
+                    "startOffset": 89939,
+                    "endColumn": 128,
+                    "endOffset": 90063
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1174,
+                    "startColumn": 4,
+                    "startOffset": 90068,
+                    "endColumn": 122,
+                    "endOffset": 90186
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1175,
+                    "startColumn": 4,
+                    "startOffset": 90191,
+                    "endColumn": 141,
+                    "endOffset": 90328
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1176,
+                    "startColumn": 4,
+                    "startOffset": 90333,
+                    "endColumn": 141,
+                    "endOffset": 90470
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1177,
+                    "startColumn": 4,
+                    "startOffset": 90475,
+                    "endColumn": 97,
+                    "endOffset": 90568
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1178,
+                    "startColumn": 4,
+                    "startOffset": 90573,
+                    "endColumn": 113,
+                    "endOffset": 90682
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1179,
+                    "startColumn": 4,
+                    "startOffset": 90687,
+                    "endColumn": 93,
+                    "endOffset": 90776
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1180,
+                    "startColumn": 4,
+                    "startOffset": 90781,
+                    "endColumn": 127,
+                    "endOffset": 90904
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1181,
+                    "startColumn": 4,
+                    "startOffset": 90909,
+                    "endColumn": 121,
+                    "endOffset": 91026
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1182,
+                    "startColumn": 4,
+                    "startOffset": 91031,
+                    "endColumn": 95,
+                    "endOffset": 91122
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1183,
+                    "startColumn": 4,
+                    "startOffset": 91127,
+                    "endColumn": 111,
+                    "endOffset": 91234
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1184,
+                    "startColumn": 4,
+                    "startOffset": 91239,
+                    "endColumn": 99,
+                    "endOffset": 91334
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1185,
+                    "startColumn": 4,
+                    "startOffset": 91339,
+                    "endColumn": 115,
+                    "endOffset": 91450
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1186,
+                    "startColumn": 4,
+                    "startOffset": 91455,
+                    "endColumn": 95,
+                    "endOffset": 91546
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1187,
+                    "startColumn": 4,
+                    "startOffset": 91551,
+                    "endColumn": 111,
+                    "endOffset": 91658
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1188,
+                    "startColumn": 4,
+                    "startOffset": 91663,
+                    "endColumn": 127,
+                    "endOffset": 91786
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1189,
+                    "startColumn": 4,
+                    "startOffset": 91791,
+                    "endColumn": 135,
+                    "endOffset": 91922
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1190,
+                    "startColumn": 4,
+                    "startOffset": 91927,
+                    "endColumn": 151,
+                    "endOffset": 92074
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1191,
+                    "startColumn": 4,
+                    "startOffset": 92079,
+                    "endColumn": 129,
+                    "endOffset": 92204
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1192,
+                    "startColumn": 4,
+                    "startOffset": 92209,
+                    "endColumn": 145,
+                    "endOffset": 92350
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1193,
+                    "startColumn": 4,
+                    "startOffset": 92355,
+                    "endColumn": 137,
+                    "endOffset": 92488
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1194,
+                    "startColumn": 4,
+                    "startOffset": 92493,
+                    "endColumn": 140,
+                    "endOffset": 92629
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1195,
+                    "startColumn": 4,
+                    "startOffset": 92634,
+                    "endColumn": 131,
+                    "endOffset": 92761
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1196,
+                    "startColumn": 4,
+                    "startOffset": 92766,
+                    "endColumn": 134,
+                    "endOffset": 92896
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1197,
+                    "startColumn": 4,
+                    "startOffset": 92901,
+                    "endColumn": 123,
+                    "endOffset": 93020
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1198,
+                    "startColumn": 4,
+                    "startOffset": 93025,
+                    "endColumn": 129,
+                    "endOffset": 93150
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1199,
+                    "startColumn": 4,
+                    "startOffset": 93155,
+                    "endColumn": 129,
+                    "endOffset": 93280
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1200,
+                    "startColumn": 4,
+                    "startOffset": 93285,
+                    "endColumn": 111,
+                    "endOffset": 93392
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1201,
+                    "startColumn": 4,
+                    "startOffset": 93397,
+                    "endColumn": 133,
+                    "endOffset": 93526
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1202,
+                    "startColumn": 4,
+                    "startOffset": 93531,
+                    "endColumn": 131,
+                    "endOffset": 93658
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1203,
+                    "startColumn": 4,
+                    "startOffset": 93663,
+                    "endColumn": 125,
+                    "endOffset": 93784
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1204,
+                    "startColumn": 4,
+                    "startOffset": 93789,
+                    "endColumn": 65,
+                    "endOffset": 93850
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1205,
+                    "startColumn": 4,
+                    "startOffset": 93855,
+                    "endColumn": 89,
+                    "endOffset": 93940
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1206,
+                    "startColumn": 4,
+                    "startOffset": 93945,
+                    "endColumn": 79,
+                    "endOffset": 94020
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1207,
+                    "startColumn": 4,
+                    "startOffset": 94025,
+                    "endColumn": 97,
+                    "endOffset": 94118
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1208,
+                    "startColumn": 4,
+                    "startOffset": 94123,
+                    "endColumn": 77,
+                    "endOffset": 94196
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1209,
+                    "startColumn": 4,
+                    "startOffset": 94201,
+                    "endColumn": 105,
+                    "endOffset": 94302
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1210,
+                    "startColumn": 4,
+                    "startOffset": 94307,
+                    "endColumn": 91,
+                    "endOffset": 94394
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1211,
+                    "startColumn": 4,
+                    "startOffset": 94399,
+                    "endColumn": 109,
+                    "endOffset": 94504
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1212,
+                    "startColumn": 4,
+                    "startOffset": 94509,
+                    "endLine": 1215,
+                    "endColumn": 12,
+                    "endOffset": 94675
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1216,
+                    "startColumn": 4,
+                    "startOffset": 94680,
+                    "endLine": 1219,
+                    "endColumn": 12,
+                    "endOffset": 94840
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1220,
+                    "startColumn": 4,
+                    "startOffset": 94845,
+                    "endColumn": 79,
+                    "endOffset": 94920
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1221,
+                    "startColumn": 4,
+                    "startOffset": 94925,
+                    "endColumn": 99,
+                    "endOffset": 95020
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1222,
+                    "startColumn": 4,
+                    "startOffset": 95025,
+                    "endColumn": 89,
+                    "endOffset": 95110
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1223,
+                    "startColumn": 4,
+                    "startOffset": 95115,
+                    "endColumn": 109,
+                    "endOffset": 95220
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1224,
+                    "startColumn": 4,
+                    "startOffset": 95225,
+                    "endColumn": 91,
+                    "endOffset": 95312
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1225,
+                    "startColumn": 4,
+                    "startOffset": 95317,
+                    "endColumn": 87,
+                    "endOffset": 95400
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1226,
+                    "startColumn": 4,
+                    "startOffset": 95405,
+                    "endColumn": 99,
+                    "endOffset": 95500
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1227,
+                    "startColumn": 4,
+                    "startOffset": 95505,
+                    "endColumn": 101,
+                    "endOffset": 95602
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1228,
+                    "startColumn": 4,
+                    "startOffset": 95607,
+                    "endColumn": 103,
+                    "endOffset": 95706
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1229,
+                    "startColumn": 4,
+                    "startOffset": 95711,
+                    "endColumn": 103,
+                    "endOffset": 95810
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1230,
+                    "startColumn": 4,
+                    "startOffset": 95815,
+                    "endColumn": 93,
+                    "endOffset": 95904
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1231,
+                    "startColumn": 4,
+                    "startOffset": 95909,
+                    "endColumn": 119,
+                    "endOffset": 96024
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1232,
+                    "startColumn": 4,
+                    "startOffset": 96029,
+                    "endColumn": 117,
+                    "endOffset": 96142
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1233,
+                    "startColumn": 4,
+                    "startOffset": 96147,
+                    "endColumn": 89,
+                    "endOffset": 96232
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1234,
+                    "startColumn": 4,
+                    "startOffset": 96237,
+                    "endColumn": 107,
+                    "endOffset": 96340
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1235,
+                    "startColumn": 4,
+                    "startOffset": 96345,
+                    "endColumn": 109,
+                    "endOffset": 96450
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1236,
+                    "startColumn": 4,
+                    "startOffset": 96455,
+                    "endColumn": 111,
+                    "endOffset": 96562
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1237,
+                    "startColumn": 4,
+                    "startOffset": 96567,
+                    "endLine": 1239,
+                    "endColumn": 12,
+                    "endOffset": 96737
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1240,
+                    "startColumn": 4,
+                    "startOffset": 96742,
+                    "endColumn": 115,
+                    "endOffset": 96853
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1241,
+                    "startColumn": 4,
+                    "startOffset": 96858,
+                    "endColumn": 85,
+                    "endOffset": 96939
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1242,
+                    "startColumn": 4,
+                    "startOffset": 96944,
+                    "endColumn": 99,
+                    "endOffset": 97039
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1243,
+                    "startColumn": 4,
+                    "startOffset": 97044,
+                    "endColumn": 111,
+                    "endOffset": 97151
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1244,
+                    "startColumn": 4,
+                    "startOffset": 97156,
+                    "endColumn": 66,
+                    "endOffset": 97218
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1245,
+                    "startColumn": 4,
+                    "startOffset": 97223,
+                    "endColumn": 113,
+                    "endOffset": 97332
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1246,
+                    "startColumn": 4,
+                    "startOffset": 97337,
+                    "endColumn": 67,
+                    "endOffset": 97400
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1247,
+                    "startColumn": 4,
+                    "startOffset": 97405,
+                    "endColumn": 115,
+                    "endOffset": 97516
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1248,
+                    "startColumn": 4,
+                    "startOffset": 97521,
+                    "endColumn": 131,
+                    "endOffset": 97648
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1249,
+                    "startColumn": 4,
+                    "startOffset": 97653,
+                    "endColumn": 115,
+                    "endOffset": 97764
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1250,
+                    "startColumn": 4,
+                    "startOffset": 97769,
+                    "endColumn": 68,
+                    "endOffset": 97833
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1251,
+                    "startColumn": 4,
+                    "startOffset": 97838,
+                    "endColumn": 94,
+                    "endOffset": 97928
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1252,
+                    "startColumn": 4,
+                    "startOffset": 97933,
+                    "endColumn": 114,
+                    "endOffset": 98043
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1253,
+                    "startColumn": 4,
+                    "startOffset": 98048,
+                    "endColumn": 112,
+                    "endOffset": 98156
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1254,
+                    "startColumn": 4,
+                    "startOffset": 98161,
+                    "endColumn": 98,
+                    "endOffset": 98255
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1255,
+                    "startColumn": 4,
+                    "startOffset": 98260,
+                    "endColumn": 119,
+                    "endOffset": 98375
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1256,
+                    "startColumn": 4,
+                    "startOffset": 98380,
+                    "endColumn": 121,
+                    "endOffset": 98497
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1257,
+                    "startColumn": 4,
+                    "startOffset": 98502,
+                    "endColumn": 110,
+                    "endOffset": 98608
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1258,
+                    "startColumn": 4,
+                    "startOffset": 98613,
+                    "endColumn": 100,
+                    "endOffset": 98709
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1259,
+                    "startColumn": 4,
+                    "startOffset": 98714,
+                    "endColumn": 104,
+                    "endOffset": 98814
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1260,
+                    "startColumn": 4,
+                    "startOffset": 98819,
+                    "endColumn": 99,
+                    "endOffset": 98914
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1261,
+                    "startColumn": 4,
+                    "startOffset": 98919,
+                    "endColumn": 117,
+                    "endOffset": 99032
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1262,
+                    "startColumn": 4,
+                    "startOffset": 99037,
+                    "endColumn": 90,
+                    "endOffset": 99123
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1263,
+                    "startColumn": 4,
+                    "startOffset": 99128,
+                    "endColumn": 122,
+                    "endOffset": 99246
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1264,
+                    "startColumn": 4,
+                    "startOffset": 99251,
+                    "endColumn": 99,
+                    "endOffset": 99346
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1265,
+                    "startColumn": 4,
+                    "startOffset": 99351,
+                    "endColumn": 103,
+                    "endOffset": 99450
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1266,
+                    "startColumn": 4,
+                    "startOffset": 99455,
+                    "endColumn": 95,
+                    "endOffset": 99546
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1267,
+                    "startColumn": 4,
+                    "startOffset": 99551,
+                    "endColumn": 87,
+                    "endOffset": 99634
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1268,
+                    "startColumn": 4,
+                    "startOffset": 99639,
+                    "endColumn": 105,
+                    "endOffset": 99740
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1269,
+                    "startColumn": 4,
+                    "startOffset": 99745,
+                    "endColumn": 91,
+                    "endOffset": 99832
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1270,
+                    "startColumn": 4,
+                    "startOffset": 99837,
+                    "endColumn": 91,
+                    "endOffset": 99924
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1271,
+                    "startColumn": 4,
+                    "startOffset": 99929,
+                    "endColumn": 113,
+                    "endOffset": 100038
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1272,
+                    "startColumn": 4,
+                    "startOffset": 100043,
+                    "endColumn": 89,
+                    "endOffset": 100128
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1273,
+                    "startColumn": 4,
+                    "startOffset": 100133,
+                    "endColumn": 83,
+                    "endOffset": 100212
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1274,
+                    "startColumn": 4,
+                    "startOffset": 100217,
+                    "endColumn": 53,
+                    "endOffset": 100266
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1275,
+                    "startColumn": 4,
+                    "startOffset": 100271,
+                    "endColumn": 121,
+                    "endOffset": 100388
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1276,
+                    "startColumn": 4,
+                    "startOffset": 100393,
+                    "endColumn": 83,
+                    "endOffset": 100472
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1277,
+                    "startColumn": 4,
+                    "startOffset": 100477,
+                    "endColumn": 119,
+                    "endOffset": 100592
+                },
+                "from": {
+                    "file": "/home/dan/Documents/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml"
+                }
+            }
+        ]
+    }
+]
